@@ -130,7 +130,10 @@ Feature Engineering Avançada: Criação de features de razão (ex: frames_r / f
 
 
 Autor: Ednei Vicente - Cientista de Dados Data: 2025
-emai - ednei.adgpo@gmail.com
+
+email - ednei.adgpo@gmail.com
+
 linkedin - https://www.linkedin.com/in/ednei-cunha-vicente-551b64187/
+
 blog - https://medium.com/@ednei_vicente
 
